@@ -1,2 +1,2 @@
 # new-repo
-this is my new repo for practicing git &amp; github
+This is my new repo for practicing git &amp; github
